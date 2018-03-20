@@ -4,7 +4,9 @@
 
 //SO33A-ES31
 
-//Create a File of a client and print the info
+
+//Create a vector and sum the numbers
+
 #include<stdio.h>
 #include<stdlib.h>
 
